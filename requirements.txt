@@ -1,0 +1,11 @@
+livekit==1.0.8
+livekit-agents==1.0.23
+livekit-api==1.0.2
+livekit-plugins-turn-detector==1.0.23
+livekit-protocol==1.0.3
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+livekit>=0.11.0
+livekit-agents>=0.11.0
+livekit-plugins-openai>=0.11.0
+livekit-plugins-noise-cancellation>=0.11.0
